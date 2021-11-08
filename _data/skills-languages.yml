@@ -33,12 +33,6 @@
 - name: Java
   weight: 1
 
-- name: QGIS mapping
-  weight: 3
-
-- name: ML/AI for NLP
-  weight: 2
-
 - name: Tableau
   weight: 1
 
