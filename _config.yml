@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am an artist, data scientist, and engineer. I bridge the gaps between these fields by creating interactive data visualizations and infrastructure for scaling and deploying ML models. I have experience with data QA/QC and entity resolution in large voterfiles and databases. I perform linear and multinomial regression forecasting, supervised ML algorithms for classification, and unsupervised ML clustering. I visualize data with GSuite and Python data viz libraries like matplotlib, plotly, and ggplot. I am partial to R, Python, SQL, and MATLAB, but am a quick learner adaptable to any tech stack.
+about_me_description: I am an artist, data scientist, and engineer. I bridge the gaps between these fields by creating interactive data visualizations and infrastructure for scaling and deploying ML models. I have experience with data QA/QC and entity resolution in large voterfiles and databases. I perform linear and multinomial regression forecasting, supervised ML algorithms for classification, and unsupervised ML clustering. I create elegant data visualizations with Tableau, ggplot, matplotlib, and plotly. I responsibly plan, implement, and deploy AWS and GCP cloud infrastructure. I am partial to R, Python, SQL, and MATLAB, but am a quick learner adaptable to any tech stack.
 
 # SKILLS SECTION
 # show_skills_card:
